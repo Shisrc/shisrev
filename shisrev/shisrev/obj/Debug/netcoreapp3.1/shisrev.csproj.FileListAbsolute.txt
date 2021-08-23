@@ -1,0 +1,13 @@
+C:\Users\shisr\shisrev\shisrev\shisrev\bin\Debug\netcoreapp3.1\shisrev.exe
+C:\Users\shisr\shisrev\shisrev\shisrev\bin\Debug\netcoreapp3.1\shisrev.deps.json
+C:\Users\shisr\shisrev\shisrev\shisrev\bin\Debug\netcoreapp3.1\shisrev.runtimeconfig.json
+C:\Users\shisr\shisrev\shisrev\shisrev\bin\Debug\netcoreapp3.1\shisrev.runtimeconfig.dev.json
+C:\Users\shisr\shisrev\shisrev\shisrev\bin\Debug\netcoreapp3.1\shisrev.dll
+C:\Users\shisr\shisrev\shisrev\shisrev\bin\Debug\netcoreapp3.1\shisrev.pdb
+C:\Users\shisr\shisrev\shisrev\shisrev\obj\Debug\netcoreapp3.1\shisrev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shisr\shisrev\shisrev\shisrev\obj\Debug\netcoreapp3.1\shisrev.AssemblyInfoInputs.cache
+C:\Users\shisr\shisrev\shisrev\shisrev\obj\Debug\netcoreapp3.1\shisrev.AssemblyInfo.cs
+C:\Users\shisr\shisrev\shisrev\shisrev\obj\Debug\netcoreapp3.1\shisrev.csproj.CoreCompileInputs.cache
+C:\Users\shisr\shisrev\shisrev\shisrev\obj\Debug\netcoreapp3.1\shisrev.dll
+C:\Users\shisr\shisrev\shisrev\shisrev\obj\Debug\netcoreapp3.1\shisrev.pdb
+C:\Users\shisr\shisrev\shisrev\shisrev\obj\Debug\netcoreapp3.1\shisrev.genruntimeconfig.cache
